@@ -1,6 +1,6 @@
 # notify
 
-A new Flutter project.
+Flutter push notification with firebase
 
 ## Getting Started
 
